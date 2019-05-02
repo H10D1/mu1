@@ -1,4 +1,4 @@
-prefix = hd!
-token= NDM5OTI0MjkwNzYzMzU4MjA5.XMJERA.nkKUBs-beWSSCw35jViDU2vygVE
-owner= H10D5
-owner=284984521768697856
+prefix =1
+token=NDM5MzAzNzk3MjY1OTI0MDk2.XMqOGw.QUBKu6IM-LvEPu6j6lpOne-cQao
+owner= Ra.
+owner=439303797265924096
